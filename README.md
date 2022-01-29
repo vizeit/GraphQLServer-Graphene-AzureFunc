@@ -11,7 +11,7 @@ Boilerplate [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) imp
 - Lightweight
 
 ## Quickstart
-### Pre-requisites
+### Prerequisites
 - Active [Azure cloud](https://azure.microsoft.com/en-us/) account
 - Local development environment setup for [Azure functions using Python](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=azure-cli%2Cbash%2Cbrowser)
 
