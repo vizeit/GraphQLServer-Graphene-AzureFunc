@@ -60,3 +60,8 @@ return AsgiMiddleware(app).handle(req, context)
 9. Define GraphQL types in [*Types.py*](/GraphQLAPI/Schemas/Types.py)
 
 10. Write GraphQL query resolvers in [*Queries.py*](/GraphQLAPI/Schemas/Queries.py)
+
+11. Add the unit tests under *tests* folder. Run the unit tests after any changes,
+```
+python -m unittest -v tests/*.py
+```
