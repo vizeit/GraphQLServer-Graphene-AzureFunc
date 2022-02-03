@@ -9,6 +9,7 @@ Boilerplate [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) imp
 - Modular
 - Support for ASGI
 - Lightweight
+- Test-driven Development
 
 ## Quickstart
 ### Prerequisites
